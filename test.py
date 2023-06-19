@@ -1,4 +1,5 @@
 import main
+import pytest
 
 def test_power():
     assert main.power(2,2) == 4
